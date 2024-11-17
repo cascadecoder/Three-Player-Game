@@ -28,7 +28,7 @@ There are multiple game objects shown on the screen.
 
 ## Special abilities
 The tagger and runners both have special abilities. If they press down on their controls, it will activate either:
-* **Mr. Ghosty **- _tagger only_ - Becomes a ghost for a few seconds allowing you to pass through walls and target players. They cannot interact with any game objects, and are teleported back to where they initially became a ghost if they tag someone else or the timer runs out.
+* **Mr. Ghosty**- _tagger only_ - Becomes a ghost for a few seconds allowing you to pass through walls and target players. They cannot interact with any game objects, and are teleported back to where they initially became a ghost if they tag someone else or the timer runs out.
 * **Speedy shoes** - _runner only_ - Become really fast for a few seconds, allowing you to clear ground between you and the tagger. This deactivates if you get tagged or the timer runs out.
 
 ## The layout
