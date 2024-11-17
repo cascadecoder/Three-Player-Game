@@ -1,5 +1,5 @@
 # Three-Player-Game
-Three Player Game made for HackClub High Seas
+Three Player Game made for HackClub High Seas by Rowan Murphy
 
 # About
 This is a three player game that uses the WASD, Arrow Keys, and Mouse buttons (yes, a physical mouse) to control the three players.
