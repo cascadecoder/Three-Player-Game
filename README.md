@@ -15,8 +15,9 @@ There are three players, each with a unique set of controls:
 * Player 2 uses the arrows keys - ^ to jump, > and < to go right and left, and v to activate their ability
 * Player 3 uses the **mouse** - Left click to go left, Right click to go right, scroll up to jump, and scroll down to activate their ability
 
+_Note: the third player doesn't use ILKJ because of the limitations of keyboard input with javascript (maximum six keys)_
   
-The game itself is simple. After a delay, a random person is selected to be _it_. Their goal is to tag the other players, and if tagged, they become it. When you become it, you are frozen for a few seconds before being able to move again. This is to keep things fair and not instantly alternate who is tagged. The taggers are trying to stay away from the tagger as much as possible. 
+The game itself is simple. After a delay, a random person is selected to be _it_. Their goal is to tag the other players, and if tagged, they become it. When you become it, you are frozen for a few seconds before being able to move again. This is to keep things fair and not instantly alternate who is tagged. The runners are trying to stay away from the tagger as much as possible. 
 
 ## Game objects
 There are multiple game objects shown on the screen.
