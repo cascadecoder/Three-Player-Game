@@ -38,14 +38,19 @@ The map is quite big, and also has some smaller more polished features.
 ## Polishes
 ![image](https://github.com/user-attachments/assets/56ad8896-a8bc-4bde-989e-fbce429c9b06)
 Particles when walking
+
 ![image](https://github.com/user-attachments/assets/b7a7f715-5d42-4548-aa1b-647ba22d4ef2)
 Speed boost dash
+
 ![image](https://github.com/user-attachments/assets/dc0dda58-c6a5-41f2-a791-82f7a4f9f717)
 Particles when jumping on a bounce pad
+
 ![image](https://github.com/user-attachments/assets/20beb949-8f5c-4db7-8105-6affd8b301f2)
 Starting position and outline when a ghost
+
 ![image](https://github.com/user-attachments/assets/67468874-d32a-4bbd-b72f-224e0cd463a0)
 Freeze timer when you get tagged
+
 ![image](https://github.com/user-attachments/assets/c67a46f0-e9bb-4896-a95a-4e270c1a684d)
 Fire particles when in speedy shoes mode
 
